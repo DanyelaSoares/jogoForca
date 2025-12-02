@@ -20,3 +20,25 @@ O objetivo é adivinhar a palavra secreta antes que suas tentativas acabem!
 ### Executando o jogo
 ```bash
 go run forca.go
+````
+
+## 📌 Regras do jogo
+- Você tem **6 tentativas** para adivinhar a palavra
+- Digite **apenas uma letra por vez**
+- A cada erro, uma tentativa será perdida
+- Se as tentativas acabarem, o jogo termina
+
+---
+
+## 🛠️ Tecnologias utilizadas
+- Go (Golang)
+
+---
+
+## 📃 Licença
+Este projeto é apenas para fins educacionais.
+
+---
+
+## 👩‍💻 Autora
+**Daniela Soares** — Desenvolvedora em aprendizado
