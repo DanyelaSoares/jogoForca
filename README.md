@@ -9,8 +9,9 @@ Adivinhe a palavra secreta antes que suas tentativas acabem!
 ---
 
 ## 🧠 Sobre o jogo
-- O usuário tenta adivinhar uma palavra secreta digitando uma letra por vez
-- O jogo exibe as letras corretas e mantém o controle das tentativas restantes
+
+- O usuário tenta adivinhar uma palavra secreta digitando uma letra por vez.  
+- O jogo exibe as letras corretas e mantém o controle das tentativas restantes.  
 - Ao acertar todas as letras, você vence!
 
 ---
@@ -18,13 +19,17 @@ Adivinhe a palavra secreta antes que suas tentativas acabem!
 ## 🚀 Como executar
 
 ### Pré-requisitos
-- Go instalado na máquina (versão 1.18+ recomendada)
+
+- Go instalado na máquina (versão 1.18+ recomendada)  
+- Terminal (Prompt de Comando, PowerShell ou Bash)
 
 ### Executando o jogo
+
 ```bash
 go run forca.go
 ```
 ## 📌 Regras do jogo
+
 - Você tem **6 tentativas** para adivinhar a palavra
 - Digite **apenas uma letra por vez**
 - A cada erro, uma tentativa será perdida
@@ -54,14 +59,23 @@ Exemplos do jogo rodando no terminal:
 ---
 
 ## 🛠️ Tecnologias utilizadas
+
 - Go (Golang)
 
 ---
 
 ## 📃 Licença
+
 Este projeto é apenas para fins educacionais.
 
 ---
 
 ## 👩‍💻 Autora
+
 **Daniela Soares** — Desenvolvedora em aprendizado
+
+---
+
+## 📚 Documentação Completa
+Para detalhes sobre regras, requisitos funcionais, não funcionais e fluxo do usuário, consulte: [DOCUMENTATION.md](DOCUMENTATION.md)
+
