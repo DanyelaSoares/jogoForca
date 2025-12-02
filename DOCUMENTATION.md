@@ -74,6 +74,7 @@ Digite uma letra: g
 Palavra: g _ _ _ _ _
 Tentativas restantes: 6
 Letras erradas: 
+
 ```
 ## 8. Tecnologias Utilizadas
 
@@ -90,4 +91,3 @@ Letras erradas:
 ## 10. Autor
 
 * Daniela Soares — Estudante de Análise de Requisitos e Desenvolvedora em aprendizado
-
